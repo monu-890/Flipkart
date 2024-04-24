@@ -43,6 +43,6 @@ To further enhance this project, we plan to:
 
 ## 📧 Contact
 
-For inquiries or collaborations related to this project, feel free to contact me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+For inquiries or collaborations related to this project, feel free to contact me via email at (monugawande07@gmail.com)
 
 Thank you for your interest in the Flipkart Top Phones Data Analysis project! 🙏📱
